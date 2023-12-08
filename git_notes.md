@@ -26,6 +26,8 @@ If you want to make a longer/more detailed commit message then use just `git com
 
 # Reverting/undoing
 
+Handy guide: https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
+
 ## See what a file looked like in the past
 
 Let's say we want to see what fileName.txt looked like at some previous commit. Find the relevant commit using `git log` or `git log --oneline`, let's say it has the hash 507c182:
